@@ -119,7 +119,7 @@ PID USER COMMAND %MEM
 * Colored terminal output
 * Export results to a log file
 
-Github project : https://github.com/waqasqasid/Server-Performance-Stats
+Github project : [https://github.com/waqasqasid/Server-Performance-Stats](https://roadmap.sh/projects/server-stats)
 
 ## License
 
